@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 古文孝經孔氏傳
-#+DATE: 2015-09-23 09:40:46
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:17:57.745362
+#+PROPERTY: ID KR1f0003
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 古文孝經
 <pb:KR1f0003_WYG_002-1a>¶
 古文孝經(宋本/)¶
 仲尼閒居曽子侍坐子曰參先王有至徳要道以順天¶
@@ -113,4 +115,3 @@
 <pb:KR1f0003_WYG_002-7a>¶
 祭祀以時思之生事愛敬死事哀戚生民之本盡矣死¶
 生之義備矣孝子之事親終矣¶
-
